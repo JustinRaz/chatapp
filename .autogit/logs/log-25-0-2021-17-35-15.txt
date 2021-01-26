@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Mon Jan 25 2021 17:35:15 GMT+0800 (Singapore Standard Time)
+------------------------------------------------------
+
+Modified files:
+* lib/main.dart
+* pubspec.lock
+
+
+Created files:
+* .autogit/autogit.json
+* lib/screens/home_screen.dart
+
+
+Deleted files:
+
+
+Renamed files:
